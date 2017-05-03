@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/code/day01/demo1/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/code/day01/demo2/platforms" />
+      <excludeFolder url="file://$MODULE_DIR$/code/day01/demo3/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/exercise/day01/hello/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
